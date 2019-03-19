@@ -1,2 +1,2 @@
-# Sheridan_Signs
-This dataset contains different hand posture signs including ASL
+# Sheridan HandReader
+Sheridan HandReader is a dataset which contains different hand posture signs including ASL.
